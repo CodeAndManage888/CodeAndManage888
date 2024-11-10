@@ -1,5 +1,5 @@
 <p>
-Hello, I'm Erick. As a devoted learner with a passion for solving challenges through programming and management skills, I thrive on exploring the world of technology. My interests span from the latest Raspberry Pi creations to groundbreaking advancements in artificial intelligence or quantum computing. Though not a specialist in any one area, I'm an eager admirer of human resourcefulness.
+Hello, I'm Erick. As a devoted learner with a passion for solving challenges through programming and design thinking, I thrive on exploring the world of technology. My interests span from the latest Raspberry Pi creations to groundbreaking advancements in artificial intelligence or quantum computing. Though not a specialist in any one area, I'm an eager admirer of human resourcefulness.
 </p>
 
 <ul>
